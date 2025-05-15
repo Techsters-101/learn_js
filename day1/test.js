@@ -1,3 +1,7 @@
-console.log("Hello")
-let a = 5
-console.log(a+5)
+const accId = 23453
+let a = "Saurav"
+var sname = "Raj"
+var roll
+
+ console.table([accId,a,sname,roll]);
+ 
